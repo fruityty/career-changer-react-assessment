@@ -198,7 +198,7 @@ const Adminfeed = ({
           required
         />
 
-        <button type="submit" onClick={handleSubmit}>
+        <button id='save' type="submit" onClick={handleSubmit}>
           Save
         </button>
       </form>

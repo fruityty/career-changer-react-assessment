@@ -17,6 +17,7 @@
     border-radius: 5px;
     background: #FFF;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 12px;
 }
 
 table {
@@ -64,6 +65,10 @@ th {
 }
 
 input {
- 
     margin-right: 20px; 
+    padding: 12px;
+}
+
+#save {
+    padding: 12px;
 }
