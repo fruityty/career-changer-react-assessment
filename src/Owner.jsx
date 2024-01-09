@@ -3,7 +3,7 @@ import "./Owner.css";
 const Owner = () => {
   return  (
     <div className="headline">
-      <h2>Ty - JenmateGroup D - JSD6</h2>
+      <h2>Ty-08 - JenmateGroup D - JSD6</h2>
       <img src="https://static.printler.com/cache/0/8/1/1/8/c/08118cb095d702b52289a030f9ba1188e345c33b.jpg" height={500}></img>
       <h3>Short Biography:</h3>
       <p className="biography">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
